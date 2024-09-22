@@ -1,4 +1,4 @@
-#📹 Real-Time Object Tracking and Warning System for ROI Monitoring
+📹 Real-Time Object Tracking and Warning System for ROI Monitoring
 
 ## 🎯 1. Objective
 The project aims to analyze a video feed in real-time to monitor and track objects (e.g., people) within a defined rectangular area of interest (ROI). If 4 or more objects remain in the area for at least 2 minutes, a warning message is triggered. The system uses object detection, tracking, and time-based conditions to achieve this goal.
